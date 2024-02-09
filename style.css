@@ -1,7 +1,7 @@
 /* Global Styles */
 body {
     font-family: Arial, sans-serif;
-    background-image: url(/img/background.jpg);
+    background-image: url(../img/background.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -20,11 +20,11 @@ body {
   }
   
   .nav-link {
-    color: #26d3d3 !important; /* Blue link color */
+    color: #26d3d3 !important; 
   }
   
   .nav-link:hover {
-    color: #f0f0f0 !important; /* Darker blue on hover */
+    color: #f0f0f0 !important; 
   }
   
   /* Main Content Styles */
@@ -70,8 +70,8 @@ body {
     width: 100%;
     border-collapse: separate;
     border-spacing: 0;
-    border: none; /* Remove default table borders */
-    background-color: transparent; /* Transparent background */
+    border: none;
+    background-color: transparent;
   }
   
   #schedule .table th,
