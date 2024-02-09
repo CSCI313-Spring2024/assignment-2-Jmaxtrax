@@ -1,7 +1,7 @@
 /* Global Styles */
 body {
     font-family: Arial, sans-serif;
-    background-image: url(../img/background.jpg);
+    background-image: url(./img/background.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -148,5 +148,4 @@ body {
   #footer p {
     color: rgb(247, 247, 247); 
   }
-
-
+  
